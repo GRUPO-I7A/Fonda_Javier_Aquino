@@ -161,7 +161,7 @@ nav .block .navbar-default .navbar-brand {
   padding-left: 0px;
 }
 nav .block .navbar-default .navbar-nav {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 nav .block .navbar-default .navbar-nav > li > a {
   color: #2E2E2E;
@@ -184,7 +184,7 @@ nav .block .navbar-default .navbar-nav > li > a:before {
   width: 0;
 }
 nav .block .navbar-default .navbar-nav > li > a:hover:before {
-  background-color: #e94c3d;
+  background-color: #1D8408;
   content: "";
   width: 100%;
 }
