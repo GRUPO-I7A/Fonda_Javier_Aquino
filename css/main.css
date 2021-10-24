@@ -78,6 +78,11 @@ a:active {
   color: #1D8408;
   font-weight: 600;
 }
+.heading_title span {
+  font-size: 45px;
+  color: #80cf00;
+  font-weight: 600;
+}
 .heading:before {
   content: "";
   position: absolute;
@@ -146,10 +151,8 @@ nav {
 nav .block {
   margin-top: -85px;
   background: #fff;
-  padding: 25px 40px;
-  background: rgba(255, 255, 255, 0.918);
-  border-style: solid;
-  border-color: rgba(227, 243, 227, 0.781);
+  padding: 1px 5px;
+  background:rgba(255, 255, 255, 0.952);
 }
 nav .block .navbar-default {
   border: none;
@@ -161,13 +164,13 @@ nav .block .navbar-default .navbar-brand {
   padding-left: 0px;
 }
 nav .block .navbar-default .navbar-nav {
-  padding-top: 20px;
+  padding-top: 10px;
 }
 nav .block .navbar-default .navbar-nav > li > a {
   color: #2E2E2E;
   padding: 10px 0px;
-  margin: 0px 15px;
-  font-size: 15px;
+  margin: 20px 15px;
+  font-size: 17px;
   text-transform: uppercase;
 }
 nav .block .navbar-default .navbar-nav > li > a:before {
@@ -190,7 +193,7 @@ nav .block .navbar-default .navbar-nav > li > a:hover:before {
 }
 nav .block .navbar-default .navbar-nav > li.current > a {
   color: #2E2E2E;
-  padding: 10px 0px;
+  padding: 5px 0px;
   margin: 0px 15px;
 }
 nav .block .navbar-default .navbar-nav > li.current > a:before {
@@ -266,7 +269,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
     about-us Start
 --*/
 #about-us {
-  padding: 100px 0px;
+  padding: 35px 0px;
   background: #F6F6F6;
 }
 #about-us .block {
@@ -703,6 +706,6 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 #cocinero{
   border-radius: 8px;
-
+  
 }
 
