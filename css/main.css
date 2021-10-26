@@ -698,7 +698,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   transition: .3s all;
 }
 #footer .block .social-media-link ul li a:hover {
-  background: #1D8408;
+  background: #eeffeb;
   color: #fff;
 }
 /*--
@@ -717,7 +717,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   letter-spacing: 2px;
 }
 #footer-bottom p a {
-  color: #1D8408;
+  color: #cac8c6;
 }
 #cocinero{
   border-radius: 8px;
